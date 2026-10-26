@@ -1,0 +1,15 @@
+画像参照URL（オンライン読込）
+https://shop.r10s.jp/miki333/cabinet/item/pl/llotion/llotion300.jpg
+https://triplesun333.github.io/epora-octoberlp/assets/banner-collagen-v2.png
+https://triplesun333.github.io/epora-octoberlp/assets/banner-lotion-v2.png
+https://triplesun333.github.io/epora-octoberlp/assets/line-support-illustration.png
+https://triplesun333.github.io/epora-octoberlp/assets/october-hero-products.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/canal-use.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/del-clean.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/gold-clean.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/infinita-use.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/liner-package.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/logo.svg
+https://triplesun333.github.io/epora-octoberlp/assets/products/lotion-omega-1.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/lotion-pure-1.png
+https://triplesun333.github.io/epora-octoberlp/assets/products/na-package.png
